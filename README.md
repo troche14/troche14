@@ -1,4 +1,4 @@
-### Hola 👋
+###  👋
 😎 Actualmente estoy aprendiendo en Digital House
 <!--
 **troche14/troche14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.sadsad
